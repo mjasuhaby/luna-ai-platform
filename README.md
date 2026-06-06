@@ -123,12 +123,11 @@ Luna AI Platform is seeking **$100K** to scale from a single-server MVP to a pro
 
 | Item | Cost |
 |------|------|
-| 10x RTX 5090 GPUs | $25,000 |
-| 10 server builds (CPU, 64GB RAM, 2TB NVMe) | $35,000 |
-| Network infrastructure (10G switch, cabling) | $3,000 |
+| 10x RTX 5090 (top-tier) + server builds | $50,000 |
+| Premises rental (1 year) | $15,000 |
+| UPS + power infrastructure | $10,000 |
+| Network (10G switch, cabling, router) | $5,000 |
 | Server rack + cooling system | $5,000 |
-| Power (PDU, UPS, electrical) | $5,000 |
-| Colocation hosting (1 year) | $12,000 |
 | CDN, domain, SSL, infrastructure | $3,000 |
 | Reserve fund (replacements, contingency) | $12,000 |
 | **Total** | **$100,000** |
