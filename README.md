@@ -111,20 +111,51 @@ A self-hosted AI platform where every AI model runs locally — zero API costs, 
 
 ## Investment Opportunity
 
-Luna AI Platform is seeking partners to scale from a single-server MVP to a multi-GPU production platform.
+Luna AI Platform is seeking **$100K** to scale from a single-server MVP to a production GPU farm.
 
 **Current state:**
-- Working MVP with chat, image gen, video gen, voice
-- Proven tech stack on RTX 5090
-- All AI runs locally — no API costs at scale
+- Working MVP with chat, image gen, video gen, voice clone
+- Proven tech stack on RTX 5090 (32GB VRAM)
+- All AI runs locally — zero API costs at scale
+- Live avatar technology: LLM + voice + lip sync + face animation
 
-**Scaling plan:**
-- 10x GPU servers = 10x concurrent users
-- CDN for global content delivery
-- Mobile app (PWA → native)
-- Multi-character ecosystem
+**What $100K buys:**
 
-**Contact:** Available for demo and technical discussion.
+| Item | Cost |
+|------|------|
+| 10x RTX 5090 GPUs | $25,000 |
+| 10 server builds (CPU, 64GB RAM, 2TB NVMe) | $35,000 |
+| Network infrastructure (10G switch, cabling) | $3,000 |
+| Server rack + cooling system | $5,000 |
+| Power (PDU, UPS, electrical) | $5,000 |
+| Colocation hosting (1 year) | $12,000 |
+| CDN, domain, SSL, infrastructure | $3,000 |
+| Reserve fund (replacements, contingency) | $12,000 |
+| **Total** | **$100,000** |
+
+**What it delivers:**
+
+| Metric | Capacity |
+|--------|----------|
+| Live AI avatars (hybrid mode) | 50 simultaneous |
+| Live AI avatars (full realtime) | 5 simultaneous |
+| AI image generation | 18,000/day |
+| AI video generation | 400/day |
+| LLM chat sessions | 20 concurrent |
+| Paying subscribers | 200-400 |
+
+**Revenue projection:**
+- Subscription: $10-50/month per user
+- 200-400 subscribers = **$2,000-20,000/month**
+- **Payback period: 5-12 months**
+
+**Competitive advantage:**
+- Zero API costs (everything local = 95%+ gross margin)
+- Full data privacy (no cloud dependency)
+- Unlimited generation (no per-request charges)
+- Scalable: add more GPUs = more users linearly
+
+**Contact:** Available for live demo and technical deep-dive.
 
 ## Screenshots
 
